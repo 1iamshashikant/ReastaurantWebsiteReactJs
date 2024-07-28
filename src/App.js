@@ -11,8 +11,9 @@ function App() {
       <Header />
       <main>
        <Meals/>
+       <AvailableMeals/>
       </main>
-      <AvailableMeals/>
+     
     </Fragment>
      
      
