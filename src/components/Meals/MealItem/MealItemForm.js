@@ -4,7 +4,6 @@ import Input from'../../UI/Input';
 const MealItemForm = (props) =>{
   
     return (
-        
           <form className={classes.form}>
 
            <Input lable="Amount"
